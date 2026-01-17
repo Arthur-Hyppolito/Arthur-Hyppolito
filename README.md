@@ -20,7 +20,7 @@ Sou desenvolvedor com foco em **back-end Java**, **front-end moderno** e **prát
 - Docker & Docker Compose
 - Git & GitHub
 - GitHub Actions (CI/CD)
-- AWS (EC2, S3, Lambda – em estudo)
+- AWS (EC2, S3, Lambda)
 - Infraestrutura como código (YAML, Docker, CI/CD)
 - Automações com **n8n**
 
@@ -37,14 +37,6 @@ Sou desenvolvedor com foco em **back-end Java**, **front-end moderno** e **prát
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Hyppolito&show_icons=true&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Hyppolito&layout=compact&theme=dark"/>
-</div>
-
----
 
 ## 🎯 Objetivo Profissional
 
@@ -60,7 +52,3 @@ Tenho interesse em ambientes que valorizem **boas práticas, automação e apren
 - 💼 LinkedIn: [linkedin.com/in/arthurhyppolito](https://www.linkedin.com/in/arthurhyppolito)
 - 📧 Email: **hyppolitoarthur@gmail.com**
 - 🧑‍💻 GitHub: [github.com/Arthur-Hyppolito](https://github.com/Arthur-Hyppolito)
-
----
-
-⭐ *Sempre aberto a aprender, evoluir e construir soluções escaláveis.*
