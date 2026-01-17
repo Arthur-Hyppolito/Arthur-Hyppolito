@@ -1,16 +1,66 @@
-## Hi there 👋
+Eu sou Arthur Hyppolito
 
-<!--
-**Arthur-Hyppolito/Arthur-Hyppolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | DevOps Enthusiast**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (SENAC)  
+🚀 Em busca de oportunidade como **Desenvolvedor Júnior / Estágio**
 
-Here are some ideas to get you started:
+Sou desenvolvedor com foco em **back-end Java**, **front-end moderno** e **práticas DevOps**, com experiência em construção de aplicações completas, automação de processos e integração de serviços em cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Desenvolvimento
+- **Back-end:** Java, Spring Boot, Node.js
+- **Front-end:** React, HTML, CSS, JavaScript
+- **APIs:** REST, autenticação, controle de sessão
+- **Banco de Dados:** MySQL, MongoDB
+
+### ⚙️ DevOps & Cloud
+- Docker & Docker Compose
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- AWS (EC2, S3, Lambda – em estudo)
+- Infraestrutura como código (YAML, Docker, CI/CD)
+- Automações com **n8n**
+
+---
+
+## 📌 Experiência Prática
+
+- Desenvolvimento de **e-commerce completo** (login, cadastro, carrinho, perfil e endereços)
+- Sistema de **controle de estoque** em Java + MySQL
+- Aplicações Full Stack com **React + Node.js + MongoDB**
+- Automação de fluxos integrando **WhatsApp, Google Sheets, HubSpot e Zoom**
+- Estudo e aplicação de **Design Patterns** (Singleton, Strategy, Facade, Composite)
+- Versionamento e trabalho colaborativo com Git
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Hyppolito&show_icons=true&theme=dark&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Hyppolito&layout=compact&theme=dark"/>
+</div>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como **Desenvolvedor Full Stack Júnior**, com forte integração em **DevOps**, participando do ciclo completo da aplicação:  
+> desenvolvimento → versionamento → build → deploy → monitoramento
+
+Tenho interesse em ambientes que valorizem **boas práticas, automação e aprendizado contínuo**.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [linkedin.com/in/arthurhyppolito](https://www.linkedin.com/in/arthurhyppolito)
+- 📧 Email: **hyppolitoarthur@gmail.com**
+- 🧑‍💻 GitHub: [github.com/Arthur-Hyppolito](https://github.com/Arthur-Hyppolito)
+
+---
+
+⭐ *Sempre aberto a aprender, evoluir e construir soluções escaláveis.*
