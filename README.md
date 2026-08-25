@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Hyppolito 👋
+# Arthur Hyppolito
 
 ### ☁️ DevOps & Platform Engineer · AWS Certified 2x · Full Stack
 
@@ -70,7 +70,7 @@ Atualmente atuo em um **squad de DevOps & Plataforma** na **Alest Consultoria**,
 
 Meu portfólio completo (trilíngue PT/EN/ES), com projetos e trajetória detalhados:
 
-### 👉 [devops-engineer.hyppolitoarthur.workers.dev](https://devops-engineer.hyppolitoarthur.workers.dev/)
+### [devops-engineer.hyppolitoarthur.workers.dev](https://devops-engineer.hyppolitoarthur.workers.dev/)
 
 ![GitHub followers](https://img.shields.io/github/followers/Arthur-Hyppolito?style=for-the-badge&logo=github&label=Followers&color=181717)
 ![GitHub stars](https://img.shields.io/github/stars/Arthur-Hyppolito?style=for-the-badge&logo=github&label=Stars&color=181717)
