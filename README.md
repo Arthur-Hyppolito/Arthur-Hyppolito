@@ -2,6 +2,9 @@
 
 ### ☁️ DevOps & Platform Engineer · AWS Certified 2x · Full Stack
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-devops--engineer-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://devops-engineer.hyppolitoarthur.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurhyppolito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurhyppolito)
+
 Construo **infraestrutura, plataformas e automações** que tornam a entrega de software mais **confiável, reproduzível e escalável**. Trabalho no ciclo completo que sustenta aplicações em produção: infraestrutura como código, clusters Kubernetes, pipelines de CI/CD e observabilidade de ponta a ponta.
 
 Atualmente atuo em um **squad de DevOps & Plataforma** na **Alest Consultoria**, alocado em cliente — provisionando ambientes na AWS com Terraform, gerenciando clusters EKS, estruturando CI/CD e garantindo confiabilidade com métricas, logs e alertas reais.
@@ -63,15 +66,20 @@ Atualmente atuo em um **squad de DevOps & Plataforma** na **Alest Consultoria**,
 
 ---
 
-## 📈 GitHub
+## 🌐 Portfólio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Hyppolito&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Hyppolito&layout=compact&theme=github_dark&hide_border=true)
+Meu portfólio completo (trilíngue PT/EN/ES), com projetos e trajetória detalhados:
+
+### 👉 [devops-engineer.hyppolitoarthur.workers.dev](https://devops-engineer.hyppolitoarthur.workers.dev/)
+
+![GitHub followers](https://img.shields.io/github/followers/Arthur-Hyppolito?style=for-the-badge&logo=github&label=Followers&color=181717)
+![GitHub stars](https://img.shields.io/github/stars/Arthur-Hyppolito?style=for-the-badge&logo=github&label=Stars&color=181717)
 
 ---
 
 ## 📫 Contato
 
+- 🌐 **Portfólio:** [devops-engineer.hyppolitoarthur.workers.dev](https://devops-engineer.hyppolitoarthur.workers.dev/)
 - 💼 **LinkedIn:** [linkedin.com/in/arthurhyppolito](https://www.linkedin.com/in/arthurhyppolito)
 - 📧 **Email:** hyppolitoarthur@gmail.com
 - 🧑‍💻 **GitHub:** [github.com/Arthur-Hyppolito](https://github.com/Arthur-Hyppolito)
