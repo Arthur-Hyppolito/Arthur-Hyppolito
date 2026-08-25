@@ -1,54 +1,77 @@
-Eu sou Arthur Hyppolito
+# Olá, eu sou o Arthur Hyppolito 👋
 
-💻 **Full Stack Developer | DevOps Enthusiast**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (SENAC)  
-🚀 Em busca de oportunidade como **Desenvolvedor Júnior / Estágio**
+### ☁️ DevOps & Platform Engineer · AWS Certified 2x · Full Stack
 
-Sou desenvolvedor com foco em **back-end Java**, **front-end moderno** e **práticas DevOps**, com experiência em construção de aplicações completas, automação de processos e integração de serviços em cloud.
+Construo **infraestrutura, plataformas e automações** que tornam a entrega de software mais **confiável, reproduzível e escalável**. Trabalho no ciclo completo que sustenta aplicações em produção: infraestrutura como código, clusters Kubernetes, pipelines de CI/CD e observabilidade de ponta a ponta.
+
+Atualmente atuo em um **squad de DevOps & Plataforma** na **Alest Consultoria**, alocado em cliente — provisionando ambientes na AWS com Terraform, gerenciando clusters EKS, estruturando CI/CD e garantindo confiabilidade com métricas, logs e alertas reais.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Stack & Ferramentas
+
+### ☁️ Nuvem & Infraestrutura
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### ⚙️ CI/CD & Automação
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### 📊 Observabilidade
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### 💻 Desenvolvimento
-- **Back-end:** Java, Spring Boot, Node.js
-- **Front-end:** React, HTML, CSS, JavaScript
-- **APIs:** REST, autenticação, controle de sessão
-- **Banco de Dados:** MySQL, MongoDB
-
-### ⚙️ DevOps & Cloud
-- Docker & Docker Compose
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- AWS (EC2, S3, Lambda)
-- Infraestrutura como código (YAML, Docker, CI/CD)
-- Automações com **n8n**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
-## 📌 Experiência Prática
+## 🏅 Certificações AWS
 
-- Desenvolvimento de **e-commerce completo** (login, cadastro, carrinho, perfil e endereços)
-- Sistema de **controle de estoque** em Java + MySQL
-- Aplicações Full Stack com **React + Node.js + MongoDB**
-- Automação de fluxos integrando **WhatsApp, Google Sheets, HubSpot e Zoom**
-- Estudo e aplicação de **Design Patterns** (Singleton, Strategy, Facade, Composite)
-- Versionamento e trabalho colaborativo com Git
+- **AWS Certified Solutions Architect – Professional**
+- **AWS Certified Cloud Practitioner**
 
 ---
 
+## 🚀 O que eu faço no dia a dia
 
-## 🎯 Objetivo Profissional
+- **Infraestrutura como código:** módulos Terraform reutilizáveis, migração de state sem downtime e padronização de tags/nomenclatura para governança e FinOps.
+- **Kubernetes / EKS:** gestão de clusters, Helm, node groups, diagnóstico de incidentes e correção de causa raiz (não só do sintoma).
+- **CI/CD:** pipelines em GitLab CI e Azure DevOps, incluindo migração de repositórios preservando histórico.
+- **Observabilidade como código:** stack Loki + Promtail + Prometheus + Grafana, dashboards versionados em Git e alertas testados de ponta a ponta.
+- **Plataformas de IA / LLMOps:** gateway de LLM (LiteLLM), agente de investigação de incidentes com permissão auditável e kill switch, FinOps por chamada.
+- **Migrações & cutover:** migração de plataformas de VMs para Kubernetes sem indisponibilidade, incluindo dados vetoriais (pgvector) e cortes de DNS controlados.
 
-Atuar como **Desenvolvedor Full Stack Júnior**, com forte integração em **DevOps**, participando do ciclo completo da aplicação:  
-> desenvolvimento → versionamento → build → deploy → monitoramento
+---
 
-Tenho interesse em ambientes que valorizem **boas práticas, automação e aprendizado contínuo**.
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — SENAC São Paulo
+- **Técnico em Tecnologia da Informação** — SENAC São Paulo
+
+---
+
+## 📈 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Hyppolito&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Hyppolito&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/arthurhyppolito](https://www.linkedin.com/in/arthurhyppolito)
-- 📧 Email: **hyppolitoarthur@gmail.com**
-- 🧑‍💻 GitHub: [github.com/Arthur-Hyppolito](https://github.com/Arthur-Hyppolito)
+- 💼 **LinkedIn:** [linkedin.com/in/arthurhyppolito](https://www.linkedin.com/in/arthurhyppolito)
+- 📧 **Email:** hyppolitoarthur@gmail.com
+- 🧑‍💻 **GitHub:** [github.com/Arthur-Hyppolito](https://github.com/Arthur-Hyppolito)
